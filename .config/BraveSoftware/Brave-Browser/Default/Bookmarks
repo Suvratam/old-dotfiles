@@ -1,0 +1,97 @@
+{
+   "checksum": "5cb3b7947ba3cc838033c49a576634f2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13252689537352780",
+            "guid": "f6d4a4e3-c537-4257-b45f-3a6017b8521f",
+            "id": "6",
+            "name": "NCERT",
+            "type": "url",
+            "url": "https://ncert.nic.in/textbook.php?hesc1=0-18"
+         }, {
+            "date_added": "13253473264645549",
+            "guid": "ff8d627a-31f4-4fb9-a736-9186b0c3f374",
+            "id": "7",
+            "name": "e-PGPathshala",
+            "type": "url",
+            "url": "http://epgp.inflibnet.ac.in/Home/Download"
+         }, {
+            "date_added": "13253966200042301",
+            "guid": "01916fb6-13d0-4cf9-b3b6-e33f68fb54c8",
+            "id": "8",
+            "name": "The Hindu Daily Quiz",
+            "type": "url",
+            "url": "https://epaper.thehindu.com/quiz.html"
+         }, {
+            "date_added": "13253966213465808",
+            "guid": "531a2bf0-8854-4cea-b64f-88e9eddb91c9",
+            "id": "9",
+            "name": "(481) Indian Polity by M. Laxmikanth Complete Analysis for all Competitive Exams - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PL_K2YMR-A5WJ3KpnC6PSLN7f_BYw749xf"
+         }, {
+            "date_added": "13253966224775040",
+            "guid": "15f72ebc-8857-40ca-b928-7b9e0036f9b4",
+            "id": "10",
+            "name": "(481) Complete Indian Economy (Ramesh Singh 11th Edition) to crack UPSC CSE/IAS by Kapil Sikka - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLwYR7WJw1-QV_y5JlVTnI61I6R8oCipmH"
+         }, {
+            "date_added": "13254991591475373",
+            "guid": "5ae995fb-31a0-481a-be2b-684cb167e724",
+            "id": "11",
+            "name": "UPSC Civil Services Exam",
+            "type": "url",
+            "url": "https://www.drishtiias.com/prelims/about-civil-services"
+         }, {
+            "date_added": "13255957237571827",
+            "guid": "102cf062-c204-4ca2-b0c5-e0fda714b0ba",
+            "id": "12",
+            "name": "Ramanujan Notebooks by Bruce C. Berndt - PDF Drive",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/ramanujan-notebooks-e33656526.html"
+         }, {
+            "date_added": "13256292919399137",
+            "guid": "11d73bc9-6408-499d-ad21-faed77774b3c",
+            "id": "13",
+            "name": "Gallantry Awards | Ministry of Defence, Government of India",
+            "type": "url",
+            "url": "https://www.gallantryawards.gov.in/"
+         } ],
+         "date_added": "13256464816002934",
+         "date_modified": "13256292919399137",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13256464816002942",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13252694159839910",
+            "guid": "3e683f17-740c-46d6-984b-21709405bdec",
+            "id": "5",
+            "name": "eGyanKosh: Search",
+            "type": "url",
+            "url": "http://egyankosh.ac.in/simple-search?query=mps003"
+         } ],
+         "date_added": "13256464816002954",
+         "date_modified": "13252694159839910",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqSuI2j6l0AAAAAEgAaWFowSldQaUxpTENuV1dKaEVYS2NsRmwzL0tBbTUzZElMTGxmVVNYaXpzQlU2Q1h5SHZwekZMUnhLRHNwY1BLeGxseTZCbWdaanBkTktEbWRKZEZwL2hRPT0gASoYRXcySlB3UFF1aXhJZ0cySmM2bTg0dz09EoMBCAISfwocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRIkMjM3OGE2ZjAtYmRhMS00ZjcwLTkzZjYtNDczZTc4ZGY5ZDExGAAgACgAMAE4iMfly/AuQIjH5cvwLkocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASowEICBKeAQocR3ZkV3BUb2lxU3FyNG9DcEl1SWR6WnBVbUhnPRIkNTM3ODQzY2YtOTUyYS00NzZiLWJmODAtMmZiYmJlYzZlOGZiGAAgAigCMAI469rny/AuQO3UxpH1LkocdHBncmVSdFc1eUEvejBrS2RBUmVwWFl2Y1BvPVofIh29YnViWTBCSjJ0Wld2NFpJdHRZdmVQVldJNkprPWU4d0PKEqMBCAwSngEKHHNUakxmODVUVExJRkhkUzRPRU4zVm5XeTFLRT0SJGEzOWUxODk3LTBjZDYtNGYxMi1hOGViLWFmYzE4ZGQwYzc4MhgAIAIoAjACOMTOo5/zLkDv1MaR9S5KHHFYTDBWb3RnTzdWN2g5SFBSZUdhRnpxTnVsYz1aHyId+1R6R0w2RUxuaGt6eFkxMFN1NlJRSE5lVW1Ucz1lwsN7URKjAQgKEp4BChxHMGx4QlplK1RYT05rTndMT2lnTEFRNlRwMkk9EiRjM2Q3MjA4Yy1lZTNjLTQ0NTItYmZhNC02NTkzNmJhOTcxMDEYACACKAIwAjjr2ufL8C5A7dTGkfUuShxia004WjVrVThOa01aWUgxUVJsSG5NVDVudVU9Wh8iHe9tTUI3YUg4SVd1QVBoU0w5NVNvejNWNWlLMlk9ZTj9dtsSogEIBhKdAQocdXBTc3E1UHhRSWNWWDhaa1hkK29sd0RtSVVrPRIkOTU3OWYyZjQtOTE4Yy00NjhiLTljOGUtMDU0YWUyYzE1NGU1GAAgAigCMAI469rny/AuQOzUxpH1LkocTDJUVmxVL0tXZFZCNVVLcUdxbHdCaEp1NFFrPVoeIhxRVWxNa1g5SDNvZ3VoSzRXeVh6R0szMTBOdXc9Zf7XNNwSowEIDRKeAQocK2k0VzViYzl4dENQRU9yazJuN1FsWEZ6YmtJPRIkMDRjOTI5YzUtOGQ0ZC00ZTJiLWE4ZmMtNDYxYWM1ZDcwMDQ3GAAgACgAMAE454Csv/QuQOeArL/0LkocR2RiUU9PMlJUNitvdlMxcW45WE9UVmFxTkZVPVofIh39WnZVRUcxMmJYRHF6R3g4R2MvczZHU0dFN0VJPWXWs4cSEqMBCAkSngEKHFlBelZHbEVnUUpleE9qNjliVitaY1NqYWVGYz0SJDkyMGJiMDMwLTgyNmItNGZlNi1iOTgwLTRkZTJlOGU2NWY4MhgAIAIoAjACOOva58vwLkDt1MaR9S5KHDd0Q2hWSXN1eVRIMXhpYURHTDU4WWFaYjBGMD1aHyId3nF2b2F0bFMzVmpHMDJvY3M5VW05Y1RQcFVBQT1lOP122xKDAQgDEn8KHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SJDFlM2VjNmQ1LTI0OWItNDJiMC1hMmI1LTI4NmNjMGFhZjliZBgAIAAoADABOIjH5cvwLkCIx+XL8C5KHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAGUAAAAAEoMBCAESfwocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRIkOGY0OGI3NGUtMDJiZS00Y2M5LThlNmUtMzA3NTIyNDk4NzY4GAAgACgAMAE4iMfly/AuQIjH5cvwLkocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAZQAAAAASowEICxKeAQocVW5zOWxBdmR2VGJ2YTI2QlJ3VnA1N2U5WHlzPRIkODI3ZTM1YzItMjg3MC00NTIyLWEyNzItODYxM2YxM2VmNjNlGAAgAigCMAI469rny/AuQO7UxpH1LkocNnBpVEx6Q1UzYWQydW5SMEljRnozYzBNYXlZPVofIh33U0UvT3ZXV1luT3ZBWkhmdk9ZT2RVU1RyRVY0PWXFrvNwEqIBCAcSnQEKHDNrb2NTc0tWYVlVM3FSMC85STE0Q3MreVVvUT0SJDExNWJmZWEwLTMyNDItNDgyYi1iMDQ1LWY3MjRiYTYwZjNmZhgAIAIoAjACOOva58vwLkDs1MaR9S5KHFd6UUhXYVlBVVdXb2NlZXhieHJHbmdCTTdoYz1aHiIcemZzb2JCNXZaMldGUEVKYVFlVk0rT0ZSSy9VPWXzpQgBEqMBCAUSngEKHEluOUd3V3pCQkdkYzUxaVhWeEFjTmswT0FNaz0SJDg4MzRmZDQwLTRlMzgtNDMxMi1hMDhhLTdmZmZkZTJhY2JkNBgAIAAoADABOOXL5cvwLkDly+XL8C5KHGRhRDIxRWRWSFlBNEpNZ0tTYmI1a0J0MWYxOD1aHyIdsUxZT2tsUTdFVTBJWDUxOHNveXAxSDUzQXk1Zz1lQnYnABgBII7gxpH1Lg==",
+   "version": 1
+}
