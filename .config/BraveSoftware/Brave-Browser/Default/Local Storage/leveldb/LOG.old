@@ -1,6 +1,3 @@
-2021/01/30-15:31:42.509 3 Reusing MANIFEST /home/suvratam/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2021/01/30-15:31:42.510 3 Recovering log #3
-2021/01/30-15:31:42.510 3 Reusing old log /home/suvratam/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000003.log 
-2021/01/30-16:29:28.587 11 Level-0 table #5: started
-2021/01/30-16:29:28.969 11 Level-0 table #5: 18957 bytes OK
-2021/01/30-16:29:29.472 11 Delete type=0 #3
+2021/01/30-16:58:17.868 3 Reusing MANIFEST /home/suvratam/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/30-16:58:17.876 3 Recovering log #4
+2021/01/30-16:58:17.877 3 Reusing old log /home/suvratam/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000004.log 

@@ -1,7 +1,7 @@
-2021/01/30-16:33:49.751 21a1 Recovering log #3
-2021/01/30-16:33:50.049 21a1 Level-0 table #5: started
-2021/01/30-16:33:50.215 21a1 Level-0 table #5: 2785958 bytes OK
-2021/01/30-16:33:50.221 21a1 Recovering log #16
-2021/01/30-16:33:50.648 21a1 Delete type=0 #3
-2021/01/30-16:33:50.648 21a1 Delete type=0 #16
-2021/01/30-16:33:50.648 21a1 Delete type=3 #2
+2021/01/30-17:05:10.489 3b7b Recovering log #3
+2021/01/30-17:05:10.752 3b7b Level-0 table #5: started
+2021/01/30-17:05:10.915 3b7b Level-0 table #5: 2785958 bytes OK
+2021/01/30-17:05:10.919 3b7b Recovering log #18
+2021/01/30-17:05:11.017 3b7b Delete type=0 #3
+2021/01/30-17:05:11.017 3b7b Delete type=3 #2
+2021/01/30-17:05:11.017 3b7b Delete type=0 #18
