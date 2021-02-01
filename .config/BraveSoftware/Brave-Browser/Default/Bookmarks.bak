@@ -1,10 +1,73 @@
 {
-   "checksum": "1e54fbb25d92a354f7aeaf576726429e",
+   "checksum": "7eb18c509f185a5e6c245f2856d51371",
    "roots": {
       "bookmark_bar": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13252689537352780",
+            "guid": "f6d4a4e3-c537-4257-b45f-3a6017b8521f",
+            "id": "6",
+            "name": "NCERT",
+            "type": "url",
+            "url": "https://ncert.nic.in/textbook.php?hesc1=0-18"
+         }, {
+            "date_added": "13253473264645549",
+            "guid": "ff8d627a-31f4-4fb9-a736-9186b0c3f374",
+            "id": "7",
+            "name": "e-PGPathshala",
+            "type": "url",
+            "url": "http://epgp.inflibnet.ac.in/Home/Download"
+         }, {
+            "date_added": "13253966200042301",
+            "guid": "01916fb6-13d0-4cf9-b3b6-e33f68fb54c8",
+            "id": "8",
+            "name": "The Hindu Daily Quiz",
+            "type": "url",
+            "url": "https://epaper.thehindu.com/quiz.html"
+         }, {
+            "date_added": "13253966213465808",
+            "guid": "531a2bf0-8854-4cea-b64f-88e9eddb91c9",
+            "id": "9",
+            "name": "(481) Indian Polity by M. Laxmikanth Complete Analysis for all Competitive Exams - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PL_K2YMR-A5WJ3KpnC6PSLN7f_BYw749xf"
+         }, {
+            "date_added": "13253966224775040",
+            "guid": "15f72ebc-8857-40ca-b928-7b9e0036f9b4",
+            "id": "10",
+            "name": "(481) Complete Indian Economy (Ramesh Singh 11th Edition) to crack UPSC CSE/IAS by Kapil Sikka - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLwYR7WJw1-QV_y5JlVTnI61I6R8oCipmH"
+         }, {
+            "date_added": "13254991591475373",
+            "guid": "5ae995fb-31a0-481a-be2b-684cb167e724",
+            "id": "11",
+            "name": "UPSC Civil Services Exam",
+            "type": "url",
+            "url": "https://www.drishtiias.com/prelims/about-civil-services"
+         }, {
+            "date_added": "13255957237571827",
+            "guid": "102cf062-c204-4ca2-b0c5-e0fda714b0ba",
+            "id": "12",
+            "name": "Ramanujan Notebooks by Bruce C. Berndt - PDF Drive",
+            "type": "url",
+            "url": "https://www.pdfdrive.com/ramanujan-notebooks-e33656526.html"
+         }, {
+            "date_added": "13256292919399137",
+            "guid": "11d73bc9-6408-499d-ad21-faed77774b3c",
+            "id": "13",
+            "name": "Gallantry Awards | Ministry of Defence, Government of India",
+            "type": "url",
+            "url": "https://www.gallantryawards.gov.in/"
+         }, {
+            "date_added": "13256481596011465",
+            "guid": "b99caddd-2041-4289-9264-a986b9f83e12",
+            "id": "15",
+            "name": "SWAYAM",
+            "type": "url",
+            "url": "https://swayam.gov.in/mycourses"
+         } ],
          "date_added": "13256464816002934",
-         "date_modified": "0",
+         "date_modified": "13256481596011465",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks bar",
@@ -20,15 +83,22 @@
          "type": "folder"
       },
       "synced": {
-         "children": [  ],
+         "children": [ {
+            "date_added": "13252694159839910",
+            "guid": "3e683f17-740c-46d6-984b-21709405bdec",
+            "id": "5",
+            "name": "eGyanKosh: Search",
+            "type": "url",
+            "url": "http://egyankosh.ac.in/simple-search?query=mps003"
+         } ],
          "date_added": "13256464816002954",
-         "date_modified": "0",
+         "date_modified": "13252694159839910",
          "guid": "00000000-0000-4000-a000-000000000004",
          "id": "3",
          "name": "Mobile bookmarks",
          "type": "folder"
       }
    },
-   "sync_metadata": "CooBChAIiIECEgrWrN+i6l0AAAAAEgAaWFI5KzR1bUFINHNKOVRBSGhOZytId1BvREJyaTdLS1VqUGNWYlY4RlZLMC9SSXEzN1pLbnlZd2dWY1ZtWTgrYU1kdkN2eDBkdjREbGp0aWloQ1RXUWJ3PT0gASoYYzJLTXJ3UW82UVptU0d5TDJLelJ0QT09EoMBCAMSfwoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRIkMWQ0MTM5YmMtZDU5NC00NmVlLWE5NjgtNTFhZGM2MDQ3Nzg4GAAgACgAMAE4q9avkfUuQKvWr5H1LkocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASgwEIAhJ/Chx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EiQwMmQ4ZTBhZS0yMmYxLTQzNzEtYmI0OC0yOTUxN2QwODkxZjUYACAAKAAwATir1q+R9S5Aq9avkfUuShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABKDAQgBEn8KHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0SJGJjODQwNGRkLTkwNzYtNDFhMy1hZjhhLTIwMTc4MTA5ZGYyMBgAIAAoADABOKvWr5H1LkCr1q+R9S5KHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAGUAAAAAGAEgk/GvkfUu",
+   "sync_metadata": "CooBChAIiIECEgrClNCy6l0AAAAAEgAaWFowSldQaUxpTENuV1dKaEVYS2NsRmwzL0tBbTUzZElMTGxmVVNYaXpzQlU2Q1h5SHZwekZMUnhLRHNwY1BLeGxseTZCbWdaanBkTktEbWRKZEZwL2hRPT0gASoYRXcySlB3UFF1aXhJZ0cySmM2bTg0dz09EqMBCA8SngEKHFpDa00zSUV2QlNCL3VSajlEcmpFeWFISkd4az0SJGZlNzAwYWM3LWY4NjAtNDU4ZC04OTIyLTI3MjRkNjZlY2IwNhgAIAAoADABOOz0p5n1LkDs9KeZ9S5KHGE3aHcremNOdkttajVseUVueWl5OXpaeTNkUT1aHyId/jFFOGEzQkp5NGNaZUNvYkd2NTk5YlVQd2R3RT1l8NeegBKjAQgFEp4BChxJbjlHd1d6QkJHZGM1MWlYVnhBY05rME9BTWs9EiQ4ODM0ZmQ0MC00ZTM4LTQzMTItYTA4YS03ZmZmZGUyYWNiZDQYACAAKAAwATjly+XL8C5A5cvly/AuShxkYUQyMUVkVkhZQTRKTWdLU2JiNWtCdDFmMTg9Wh8iHbFMWU9rbFE3RVUwSVg1MThzb3lwMUg1M0F5NWc9ZUJ2JwASgwEIARJ/ChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9EiQ4ZjQ4Yjc0ZS0wMmJlLTRjYzktOGU2ZS0zMDc1MjI0OTg3NjgYACAAKAAwATiIx+XL8C5AiMfly/AuShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABKDAQgDEn8KHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SJDFlM2VjNmQ1LTI0OWItNDJiMC1hMmI1LTI4NmNjMGFhZjliZBgAIAAoADABOIjH5cvwLkCIx+XL8C5KHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAGUAAAAAEqMBCAkSngEKHFlBelZHbEVnUUpleE9qNjliVitaY1NqYWVGYz0SJDkyMGJiMDMwLTgyNmItNGZlNi1iOTgwLTRkZTJlOGU2NWY4MhgAIAIoAjACOOva58vwLkDt1MaR9S5KHDd0Q2hWSXN1eVRIMXhpYURHTDU4WWFaYjBGMD1aHyId3nF2b2F0bFMzVmpHMDJvY3M5VW05Y1RQcFVBQT1lOP122xKiAQgGEp0BChx1cFNzcTVQeFFJY1ZYOFprWGQrb2x3RG1JVWs9EiQ5NTc5ZjJmNC05MThjLTQ2OGItOWM4ZS0wNTRhZTJjMTU0ZTUYACACKAIwAjjr2ufL8C5A7NTGkfUuShxMMlRWbFUvS1dkVkI1VUtxR3Fsd0JoSnU0UWs9Wh4iHFFVbE1rWDlIM29ndWhLNFd5WHpHSzMxME51dz1l/tc03BKjAQgNEp4BChwraTRXNWJjOXh0Q1BFT3JrMm43UWxYRnpia0k9EiQwNGM5MjljNS04ZDRkLTRlMmItYThmYy00NjFhYzVkNzAwNDcYACAAKAAwATjngKy/9C5A54Csv/QuShxHZGJRT08yUlQ2K292UzFxbjlYT1RWYXFORlU9Wh8iHf1adlVFRzEyYlhEcXpHeDhHYy9zNkdTR0U3RUk9ZdazhxISowEIChKeAQocRzBseEJaZStUWE9Oa053TE9pZ0xBUTZUcDJJPRIkYzNkNzIwOGMtZWUzYy00NDUyLWJmYTQtNjU5MzZiYTk3MTAxGAAgAigCMAI469rny/AuQO3UxpH1LkocYmtNOFo1a1U4TmtNWllIMVFSbEhuTVQ1bnVVPVofIh3vbU1CN2FIOElXdUFQaFNMOTVTb3ozVjVpSzJZPWU4/XbbEqIBCAcSnQEKHDNrb2NTc0tWYVlVM3FSMC85STE0Q3MreVVvUT0SJDExNWJmZWEwLTMyNDItNDgyYi1iMDQ1LWY3MjRiYTYwZjNmZhgAIAIoAjACOOva58vwLkDs1MaR9S5KHFd6UUhXYVlBVVdXb2NlZXhieHJHbmdCTTdoYz1aHiIcemZzb2JCNXZaMldGUEVKYVFlVk0rT0ZSSy9VPWXzpQgBEqMBCAsSngEKHFVuczlsQXZkdlRidmEyNkJSd1ZwNTdlOVh5cz0SJDgyN2UzNWMyLTI4NzAtNDUyMi1hMjcyLTg2MTNmMTNlZjYzZRgAIAIoAjACOOva58vwLkDu1MaR9S5KHDZwaVRMekNVM2FkMnVuUjBJY0Z6M2MwTWF5WT1aHyId91NFL092V1dZbk92QVpIZnZPWU9kVVNUckVWND1lxa7zcBKjAQgIEp4BChxHdmRXcFRvaXFTcXI0b0NwSXVJZHpacFVtSGc9EiQ1Mzc4NDNjZi05NTJhLTQ3NmItYmY4MC0yZmJiYmVjNmU4ZmIYACACKAIwAjjr2ufL8C5A7dTGkfUuShx0cGdyZVJ0VzV5QS96MGtLZEFSZXBYWXZjUG89Wh8iHb1idWJZMEJKMnRaV3Y0Wkl0dFl2ZVBWV0k2Sms9ZTh3Q8oSowEIDBKeAQocc1RqTGY4NVRUTElGSGRTNE9FTjNWbld5MUtFPRIkYTM5ZTE4OTctMGNkNi00ZjEyLWE4ZWItYWZjMThkZDBjNzgyGAAgAigCMAI4xM6jn/MuQO/UxpH1LkoccVhMMFZvdGdPN1Y3aDlIUFJlR2FGenFOdWxjPVofIh37VHpHTDZFTG5oa3p4WTEwU3U2UlFITmVVbVRzPWXCw3tREoMBCAISfwocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRIkMjM3OGE2ZjAtYmRhMS00ZjcwLTkzZjYtNDczZTc4ZGY5ZDExGAAgACgAMAE4iMfly/AuQIjH5cvwLkocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAAYASDV+qiZ9S4=",
    "version": 1
 }

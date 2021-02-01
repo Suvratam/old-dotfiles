@@ -1,45 +1,43 @@
-00:00:00.016397 main     VirtualBox XPCOM Server 6.1.18 r142142 linux.amd64 (Jan 20 2021 06:48:10) release log
-00:00:00.016408 main     Log opened 2021-01-24T07:17:46.718802000Z
-00:00:00.016411 main     Build Type: release
-00:00:00.016422 main     OS Product: Linux
-00:00:00.016427 main     OS Release: 5.10.9-arch1-1
-00:00:00.016433 main     OS Version: #1 SMP PREEMPT Tue, 19 Jan 2021 22:06:06 +0000
-00:00:00.016578 main     DMI Product Name: HP Laptop 15-bs0xx
-00:00:00.016635 main     DMI Product Version: Type1ProductConfigId
-00:00:00.016655 main     Firmware type: UEFI
-00:00:00.019492 main     Secure Boot: Disabled
-00:00:00.019655 main     Host RAM: 7746MB (7.5GB) total, 7244MB (7.0GB) available
-00:00:00.019667 main     Executable: /usr/lib/virtualbox/VBoxSVC
-00:00:00.019670 main     Process ID: 93860
-00:00:00.019672 main     Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.026750 main     IPC socket path: /tmp/.vbox-suvratam-ipc/ipcd
-00:00:00.153078 nspr-2   VirtualBox: object creation starts
-00:00:00.153365 nspr-2   Home directory: '/home/suvratam/.config/VirtualBox'
-00:00:00.218403 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.238839 nspr-2   HostDnsMonitor: initializing
-00:00:00.239775 nspr-2   NAT: resolv.conf: nameserver 192.168.2.1
-00:00:00.239847 nspr-2   HostDnsMonitor: updating information
-00:00:00.239905 nspr-2   HostDnsMonitor: old information
-00:00:00.239938 nspr-2     no server entries
-00:00:00.239949 nspr-2     no domain set
-00:00:00.239958 nspr-2     no search string entries
-00:00:00.239968 nspr-2   HostDnsMonitor: new information
-00:00:00.239977 nspr-2     server 1: 192.168.2.1
-00:00:00.239988 nspr-2     no domain set
-00:00:00.239997 nspr-2     no search string entries
-00:00:00.251351 nspr-2   VD: VDInit finished with VINF_SUCCESS
-00:00:00.253084 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:00.256852 nspr-2   VirtualBox: object created
-00:00:03.321461 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.495129 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.572624 nspr-2   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.668137 nspr-2   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.740266 nspr-2   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.820988 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:03.901282 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
-00:00:09.497547 main     VirtualBox: object deletion starts
-00:00:09.498376 main     HostDnsMonitor: shutting down ...
-00:00:09.512125 main     HostDnsMonitor: shut down
-00:00:09.761816 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
-00:00:14.512602 main     {00007f2a340160a0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
-00:00:14.513381 main     VirtualBox: object deleted
+00:00:00.016821 main     VirtualBox XPCOM Server 6.1.18 r142142 linux.amd64 (Jan 20 2021 06:48:10) release log
+00:00:00.016831 main     Log opened 2021-01-30T13:04:05.007319000Z
+00:00:00.016834 main     Build Type: release
+00:00:00.016843 main     OS Product: Linux
+00:00:00.016848 main     OS Release: 5.10.10-arch1-1
+00:00:00.016853 main     OS Version: #1 SMP PREEMPT Sat, 23 Jan 2021 23:59:48 +0000
+00:00:00.016953 main     DMI Product Name: HP Laptop 15-bs0xx
+00:00:00.017006 main     DMI Product Version: Type1ProductConfigId
+00:00:00.017025 main     Firmware type: UEFI
+00:00:00.019654 main     Secure Boot: Disabled
+00:00:00.019820 main     Host RAM: 7746MB (7.5GB) total, 7335MB (7.1GB) available
+00:00:00.019857 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.019860 main     Process ID: 1622
+00:00:00.019862 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.026735 main     IPC socket path: /tmp/.vbox-suvratam-ipc/ipcd
+00:00:00.154442 nspr-2   VirtualBox: object creation starts
+00:00:00.154684 nspr-2   Home directory: '/home/suvratam/.config/VirtualBox'
+00:00:00.171535 nspr-2   Loading settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.235943 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlo1: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.248469 nspr-2   HostDnsMonitor: initializing
+00:00:00.249396 nspr-2   NAT: resolv.conf: nameserver 192.168.2.1
+00:00:00.249469 nspr-2   HostDnsMonitor: updating information
+00:00:00.249528 nspr-2   HostDnsMonitor: old information
+00:00:00.249542 nspr-2     no server entries
+00:00:00.249554 nspr-2     no domain set
+00:00:00.249565 nspr-2     no search string entries
+00:00:00.249576 nspr-2   HostDnsMonitor: new information
+00:00:00.249587 nspr-2     server 1: 192.168.2.1
+00:00:00.249600 nspr-2     no domain set
+00:00:00.249610 nspr-2     no search string entries
+00:00:00.270943 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.272914 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.275704 nspr-2   VirtualBox: object created
+00:00:02.211459 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.292496 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.405485 nspr-2   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.488501 nspr-3   Saving settings file "/home/suvratam/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.099043 main     VirtualBox: object deletion starts
+00:00:08.099955 main     HostDnsMonitor: shutting down ...
+00:00:08.111180 main     HostDnsMonitor: shut down
+00:00:08.279911 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.111662 main     {00007f39d80175d0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.112466 main     VirtualBox: object deleted
